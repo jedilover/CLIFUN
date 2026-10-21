@@ -10,3 +10,4 @@ jq, aws cli -> python
 
 #after that
 export AWS_PROFILE=yours
+
